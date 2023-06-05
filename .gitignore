@@ -1,0 +1,6 @@
+destination/
+my_backend/
+__pycache__/
+test_images/
+.ipynb_checkpoints/
+*.keras
